@@ -1,2 +1,2 @@
 # phys325
-Notes and review of PHYS325 Fall 2017
+Notes, review, and group problems from PHYS325 Fall 2017
